@@ -101,7 +101,7 @@ export default function OpeningAnimation({ onComplete, onEnvelopeOpen }: { onCom
               </p>
               <div style={{ width: "30px", height: "1px", background: "linear-gradient(90deg, transparent, #D4AF37, transparent)", margin: "0 auto 10px" }} />
               <p style={{ fontFamily: "var(--font-heading)", fontSize: "28px", color: "#FFF8DC", lineHeight: 1.2, fontWeight: 300 }}>
-                Chamod
+                Dilshan
               </p>
               <p style={{ fontFamily: "var(--font-script)", fontSize: "22px", color: "#D4AF37", margin: "2px 0" }}>&</p>
               <p style={{ fontFamily: "var(--font-heading)", fontSize: "28px", color: "#FFF8DC", lineHeight: 1.2, fontWeight: 300 }}>
