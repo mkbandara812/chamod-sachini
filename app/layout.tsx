@@ -21,7 +21,7 @@ const script = Great_Vibes({
 });
 
 export const metadata: Metadata = {
-  title: "Chamod & Sachini | Royal Wedding Invitation",
+  title: "Dilshan & Sachini | Royal Wedding Invitation",
   description: "A breathtaking digital wedding invitation.",
 };
 
