@@ -7,9 +7,9 @@ import RSVPForm from "@/components/RSVPForm";
 import OpeningAnimation from "@/components/OpeningAnimation";
 
 const details = {
-  groom: "Chamod",
+  groom: "Dilshan",
   bride: "Sachini",
-  groomFull: "Chamod Dilshan",
+  groomFull: "Dilshan Dilshan",
   brideFull: "Sachini Nisansala",
   dateFull: "Thursday, 14 May 2026",
   dateShort: "14 · 05 · 2026",
