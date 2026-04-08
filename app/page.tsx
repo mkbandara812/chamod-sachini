@@ -9,7 +9,7 @@ import OpeningAnimation from "@/components/OpeningAnimation";
 const details = {
   groom: "Dilshan",
   bride: "Sachini",
-  groomFull: "Dilshan Dilshan",
+  groomFull: "Chamod Dilshan",
   brideFull: "Sachini Nisansala",
   dateFull: "Thursday, 14 May 2026",
   dateShort: "14 · 05 · 2026",
